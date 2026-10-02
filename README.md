@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! My name is Tommy.
+
+Hi! I am currently studying to become a web-developer. I've done 1 year of back-end web development and is currently finishing my first of 2 years front-end web development. 
+
+- I am currently working on some personal projects like "The Meal Wheel".
+- How to reach me: tommy@aarstein.no
 
 <!--
 **tommyaarstein/tommyaarstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
